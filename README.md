@@ -31,3 +31,7 @@ A simple Space Invaders clone built with Python's `turtle` module.
 - Bullet firing and collision detection
 - Scoreboard that updates with each hit
 - "GAME OVER!" message when you lose
+
+## License
+
+This project is created for educational purpose.
